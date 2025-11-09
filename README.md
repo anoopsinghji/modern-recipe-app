@@ -47,16 +47,4 @@ A professional, mobile-first recipe discovery application built with **Ionic Ang
 - Ionic CLI: `npm install -g @ionic/cli`
 - Angular CLI: `npm install -g @angular/cli`
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-username/recipe-recommender.git
 
-# Navigate to project directory
-cd recipe-recommender
-
-# Install dependencies
-npm install
-
-# Start development server
-ionic serve
